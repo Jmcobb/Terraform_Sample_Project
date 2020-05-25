@@ -1,0 +1,17 @@
+
+Thank you for your time in accepting this code request.
+
+These are the simple instructions on how to run part one of these files. 
+_____________________________________________________________________________________
+1.) Verify you have Terraform installed by going to a browser and 
+using the command "terraform -v"
+_____________________________________________________________________________________
+2.) Then, verify you have python installed by running "python --version"
+
+(If missing either of the above, please install them locally.) 
+_____________________________________________________________________________________
+3.) After verification run "python r_and_d.py", and watch the magic happen! 
+_____________________________________________________________________________________
+
+Note, given the specifications you will receive fails on the "terraform apply" step.
+
